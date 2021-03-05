@@ -304,7 +304,7 @@ namespace NitroxLauncher
             }
             else if (PlatformDetection.IsSteam(subnauticaPath))
             {
-                startInfo.FileName = "steam://run/264710";
+                startInfo.FileName = "E:\Subnautica\Subnautica";
             }
             else if (PlatformDetection.IsMicrosoftStore(subnauticaPath))
             {
